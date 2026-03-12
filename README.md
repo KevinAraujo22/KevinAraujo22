@@ -1,11 +1,11 @@
 # Opa! Tudo certo? 🕹️👾
 
 ## Sobre mim:
-Olá! Meu nome é Kevin, sou um desenvolvedor de joogos iniciante
+Olá! Meu nome é Kevin, sou um desenvolvedor full stack e GameDev iniciante
 
 ## Planos Atuais 🎲:
-- Concluindo minha faculdade de bacharel em Ciência da Computação pela Unip
-- Estudando Unit e C#
+- Iniciando na Pós graduação em Full Stack Development pela FIAP
+- Estudando JavaScript e .net
 - Ficha automática de sistema de RPG
 - Procurando oportunidades no mercado!
 
