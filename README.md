@@ -5,8 +5,8 @@ Olá! Meu nome é Kevin, sou um desenvolvedor full stack e GameDev iniciante
 
 ## Planos Atuais 🎲:
 - Iniciando na Pós graduação em Full Stack Development pela FIAP
-- Estudando JavaScript e .net
-- Ficha automática de sistema de RPG
+- Estudando JavaScript e node JS
+- Sistema de RPG online(site com fichas e automações)
 - Procurando oportunidades no mercado!
 
 ## Tecnologias:
