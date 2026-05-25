@@ -7,7 +7,6 @@ Olá! Meu nome é Kevin, sou um desenvolvedor full stack e GameDev iniciante
 - Iniciando na Pós graduação em Full Stack Development pela FIAP
 - Estudando JavaScript e node JS
 - Sistema de RPG online(site com fichas e automações)
-- Procurando oportunidades no mercado!
 
 ## Tecnologias:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
